@@ -1,4 +1,4 @@
 # Titanic-Tableau
 Tableu presentation of Titanic survival rate
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Titanic Dashboard](https://evgt187.github.io/Portfolio/image/Titanic-Dashboard.png)
