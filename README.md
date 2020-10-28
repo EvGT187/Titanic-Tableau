@@ -1,7 +1,7 @@
 # Titanic Tableau Presentation
 Tableu presentation of Titanic survival rate
 
-![Titanic Dashboard](https://evgt187.github.io/Portfolio/image/Titanic-Dashboard.png)
+![Titanic Dashboard](https://raw.githubusercontent.com/EvGT187/Titanic-Tableau/master/images/Titanic-Dashboard.png)
 
 
 The image above is the dashboard I managed to put together with the information from the Titanic dataset. The Tableau file and dataset can be downloaded for further analysis.
